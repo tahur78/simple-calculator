@@ -31,6 +31,6 @@ python calculator.py
 Choose an operation and enter the required numbers.
 
 Purpose
-This project was created to practice Python basics, including user input, conditional logic, switch statements, and arithmetic operators.
+
 
 This project was created to practice Python basics, including user input, conditional logic, switch statements, and arithmetic operators.
