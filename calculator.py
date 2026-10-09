@@ -2,7 +2,7 @@ def get_operation():
     while True:
         try:
             operation= int(input("Choose an operation (1-6): "))
-            if 1<operation>6:
+            if 1<=operation<=6:
                 return operation
             else:
                 print("please enter a number between 1 to 6")
